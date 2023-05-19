@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import React from "react";
 import "./App.css";
 import Search from "./Search";
 
@@ -10,7 +10,7 @@ function App() {
 
         <Search />
         <p>
-          Coded by Yuliia Ukrainets,{" "}
+          Coded by Yuliia Ukrainets,
           <a target="_blank" href="https://github.com/Julyuk/weather-react">
             open-sourced
           </a>
