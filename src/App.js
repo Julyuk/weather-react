@@ -11,7 +11,11 @@ function App() {
         <Search />
         <p>
           Coded by Yuliia Ukrainets,
-          <a target="_blank" href="https://github.com/Julyuk/weather-react">
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://github.com/Julyuk/weather-react"
+          >
             open-sourced
           </a>
         </p>
