@@ -50,7 +50,7 @@ export default function Search(props) {
           <li>Humidity:{temp.humidity}</li>
           <li>Wind:{temp.wind}</li>
           <li>
-            <img src={temp.icon} />
+            <img src={temp.icon} alt="weather-icon" />
           </li>
         </ul>
       </div>
