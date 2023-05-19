@@ -10,7 +10,10 @@ function App() {
 
         <Search />
         <p>
-          Coded by Yuliia Ukrainets, <a href="">open-sourced</a>
+          Coded by Yuliia Ukrainets,{" "}
+          <a target="_blank" href="https://github.com/Julyuk/weather-react">
+            open-sourced
+          </a>
         </p>
       </header>
     </div>
